@@ -44,10 +44,7 @@ Always looking for opportunities to learn and grow!
 
 <h2 align="center">Current Projects</h2>
 
-<h3 align="center">StudentSquare — College Marketplace</h3>
-
-
-**Status:** In Development
+<h3 align="center">StudentSquare (A college marketplace - Coming soon!</h3>
 
 <h3 align="center">Rocky Digital Media</h3>
 
@@ -113,6 +110,9 @@ Always looking for opportunities to learn and grow!
 
 **Thanks for visiting my page!**
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=100000&pause=100000&color=6B4423&center=true&vCenter=true&width=300&lines=Made+by+Rocky" alt="Made by Rocky"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Made%20by%20Rocky&fontColor=6B4423&fontSize=26&fontAlignY=50&height=65" alt="Made by Rocky"/>
+</p>
 
 </div>
