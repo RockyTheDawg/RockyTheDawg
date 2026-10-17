@@ -33,7 +33,7 @@ Always looking for opportunities to learn and grow!
 
 <h2 align="center">The tools I use!</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode"/>
@@ -44,8 +44,10 @@ Always looking for opportunities to learn and grow!
 
 <h2 align="center">Current Projects</h2>
 
-<h3 align="center">StudentSquare - In Devolopment.</h3>
+<h3 align="center">StudentSquare — College Marketplace</h3>
 
+
+**Status:** In Development
 
 <h3 align="center">Rocky Digital Media</h3>
 
