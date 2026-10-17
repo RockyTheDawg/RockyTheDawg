@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  🐾 _Rocky Intro page!_  🐾
+###  🐾 _Rocky Intro page!_  🐾
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=3000&pause=1200&color=6B4423&center=true&vCenter=true&width=500&lines=Welcome+to+my+page!" alt="Welcome to my page!" />
 
