@@ -1,21 +1,22 @@
 
 <div align="center">
 
-# Bonjour! I'm Rocky
+  🐾 _Rocky Intro page!_  🐾
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=24&duration=3000&pause=1200&color=6B4423&center=true&vCenter=true&width=500&lines=Welcome+to+my+page!" alt="Welcome to my page!" />
 
 **Student Developer | Technology | Photography**
 
+
 </div>
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 Bonjour! I'm **Rocky**! Also known as *RockyTheDawg*.
 
-I'm a college student from Pennsylvania with an interest in technology, programming, and photography!
+I'm a college student from Pennsylvania, interested in technology, programming, and photography!
 
 I enjoy building websites, experimenting with new ideas, and turning concepts into real projects.
 
@@ -30,7 +31,7 @@ Always looking for opportunities to learn and grow!
 
 ---
 
-## Technologies & Tools
+<h2 align="center">The tools I use!</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
@@ -41,15 +42,12 @@ Always looking for opportunities to learn and grow!
 
 ---
 
-## Current Projects
+<h2 align="center">Current Projects</h2>
 
-### StudentSquare — College Marketplace
+<h3 align="center">StudentSquare - In Devolopment.</h3>
 
-A student-focused marketplace and housing platform designed for college and university students.
 
-**Status:** In Development
-
-### Rocky Digital Media
+<h3 align="center">Rocky Digital Media</h3>
 
 <div align="center">
 
@@ -60,9 +58,8 @@ A student-focused marketplace and housing platform designed for college and univ
 
 </div>
 
-A furry-owned photography and digital media project focused on capturing convention experiences, creativity, and memories.
 
-### rocksishungry
+<h3 align="center">rocksishungry</h3>
 
 <div align="center">
 
@@ -73,11 +70,10 @@ A furry-owned photography and digital media project focused on capturing convent
 
 </div>
 
-My personal website where I share creative ideas and experiment with web development and technology.
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -88,7 +84,7 @@ My personal website where I share creative ideas and experiment with web develop
 
 ---
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
