@@ -72,12 +72,6 @@ Always looking for opportunities to learn and grow!
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RockyTheDawg&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="195" alt="GitHub Statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyTheDawg&layout=compact&theme=tokyonight&hide_border=true" width="400" height="195" alt="Top Languages"/>
 
 </div>
 
